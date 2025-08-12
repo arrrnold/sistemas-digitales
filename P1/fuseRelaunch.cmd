@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -o "C:/Xilinx/Practicas/P1/Compuertas_isim_beh.exe" -prj "C:/Xilinx/Practicas/P1/Compuertas_beh.prj" "work.Compuertas" 

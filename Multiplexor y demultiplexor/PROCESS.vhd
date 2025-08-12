@@ -1,0 +1,65 @@
+----------------------------------------------------------------------------------
+-- Company: 
+-- Engineer: 
+-- 
+-- Create Date:    19:58:49 11/23/2021 
+-- Design Name: 
+-- Module Name:    MUX4bitsPROCESS - Behavioral 
+-- Project Name: 
+-- Target Devices: 
+-- Tool versions: 
+-- Description: 
+--
+-- Dependencies: 
+--
+-- Revision: 
+-- Revision 0.01 - File Created
+-- Additional Comments: 
+--
+----------------------------------------------------------------------------------
+
+library IEEE;
+use IEEE.std_logic_1164.all;
+use IEEE.numeric_std.all;
+use IEEE.std_logic_unsigned.all;
+
+-- Uncomment the following library declaration if using
+-- arithmetic functions with Signed or Unsigned values
+--use IEEE.NUMERIC_STD.ALL;
+
+-- Uncomment the following library declaration if instantiating
+-- any Xilinx primitives in this code.
+--library UNISIM;
+--use UNISIM.VComponents.all;
+
+	entity ifElse4bits is
+		 Port ( A0 : in  STD_LOGIC;
+				  A1 : in  STD_LOGIC;
+				  A2 : in  STD_LOGIC;
+				  A3 : in  STD_LOGIC;
+				  control : in  STD_LOGIC_VECTOR (1 downto 0);
+				  salida : out  STD_LOGIC);
+	end ifElse4bits;
+
+	architecture Behavioral of ifElse4bits is
+	begin
+
+		 ifElse : process (A0,A1,A2,A3,control)
+		 begin
+			  
+			  if(control<="00") then
+					salida <= A0;
+			  elsif(control<="01") then
+					salida <= A1;
+			  elsif(control<="10") then
+					salida <= A2;
+			  else
+					salida <= A3;
+			  end if;
+			  
+		 end process;
+
+	end Behavioral;
+
+
+

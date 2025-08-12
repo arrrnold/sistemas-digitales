@@ -1,0 +1,29 @@
+Command line:
+   ifElse4bits_isim_beh.exe
+     -simmode  gui
+     -simrunnum  1
+     -socket  56240
+
+Thu Dec 02 20:22:16 2021
+
+
+ Elaboration Time: 0.078125 sec
+
+ Current Memory Usage: 361.64 Meg
+
+ Total Signals          : 6
+ Total Nets             : 7
+ Total Signal Drivers   : 1
+ Total Blocks           : 5
+ Total Primitive Blocks : 5
+ Total Processes        : 1
+ Total Traceable Variables  : 15
+ Total Scalar Nets and Variables : 508
+Total Line Count : 5
+
+ Total Simulation Time: 0.09375 sec
+
+ Current Memory Usage: 361.64 Meg
+
+Thu Dec 02 20:24:27 2021
+

@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -o "C:/Xilinx/Practicas/Encoders/Encoders/prioridad_isim_beh.exe" -prj "C:/Xilinx/Practicas/Encoders/Encoders/prioridad_beh.prj" "work.prioridad" 

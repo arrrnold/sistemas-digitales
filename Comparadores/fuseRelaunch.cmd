@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -o "C:/Xilinx/Practicas/Comparadores/cathode_isim_beh.exe" -prj "C:/Xilinx/Practicas/Comparadores/cathode_beh.prj" "work.cathode" 

@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -o "C:/Xilinx/Practicas/P3/MUX4bitsPROCESS_isim_beh.exe" -prj "C:/Xilinx/Practicas/P3/MUX4bitsPROCESS_beh.prj" "work.MUX4bitsPROCESS" 

@@ -1,0 +1,20 @@
+Running: C:\Xilinx\14.7\ISE_DS\ISE\bin\nt64\unwrapped\fuse.exe -intstyle ise -incremental -o C:/Users/ar/Desktop/Probando ROM 16X8/Proyecto/sim_isim_beh.exe -prj C:/Users/ar/Desktop/Probando ROM 16X8/Proyecto/sim_beh.prj work.sim 
+ISim P.20131013 (signature 0x7708f090)
+Number of CPUs detected in this system: 2
+Turning on mult-threading, number of parallel sub-compilation jobs: 4 
+Determining compilation order of HDL files
+Parsing VHDL file "C:/Users/ar/Desktop/Probando ROM 16X8/Proyecto/mem.vhd" into library work
+Parsing VHDL file "C:/Users/ar/Desktop/Probando ROM 16X8/Proyecto/sim.vhd" into library work
+Starting static elaboration
+Completed static elaboration
+Compiling package standard
+Compiling package std_logic_1164
+Compiling package numeric_std
+Compiling architecture rom_arch of entity ROM [\ROM(8,16,4)\]
+Compiling architecture behavior of entity sim
+Time Resolution for simulation is 1ps.
+Waiting for 1 sub-compilation(s) to finish...
+Compiled 6 VHDL Units
+Built simulation executable C:/Users/ar/Desktop/Probando ROM 16X8/Proyecto/sim_isim_beh.exe
+Fuse Memory Usage: 33692 KB
+Fuse CPU Usage: 1405 ms

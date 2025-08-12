@@ -1,0 +1,29 @@
+Command line:
+   prioridad_isim_beh.exe
+     -simmode  gui
+     -simrunnum  0
+     -socket  49904
+
+Sat Dec 04 21:27:44 2021
+
+
+ Elaboration Time: 0.0625 sec
+
+ Current Memory Usage: 361.456 Meg
+
+ Total Signals          : 2
+ Total Nets             : 11
+ Total Signal Drivers   : 1
+ Total Blocks           : 2
+ Total Primitive Blocks : 2
+ Total Processes        : 1
+ Total Traceable Variables  : 8
+ Total Scalar Nets and Variables : 371
+Total Line Count : 1
+
+ Total Simulation Time: 0.09375 sec
+
+ Current Memory Usage: 361.456 Meg
+
+Sat Dec 04 21:46:01 2021
+

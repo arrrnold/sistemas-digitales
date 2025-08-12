@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -o "C:/Users/ar/Desktop/Probando ROM 16X8/Proyecto/sim_isim_beh.exe" -prj "C:/Users/ar/Desktop/Probando ROM 16X8/Proyecto/sim_beh.prj" "work.sim" 

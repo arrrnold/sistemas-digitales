@@ -1,0 +1,29 @@
+Command line:
+   demux8bit_isim_beh.exe
+     -simmode  gui
+     -simrunnum  0
+     -socket  58640
+
+Thu Dec 02 21:42:54 2021
+
+
+ Elaboration Time: 0.0625 sec
+
+ Current Memory Usage: 361.624 Meg
+
+ Total Signals          : 13
+ Total Nets             : 13
+ Total Signal Drivers   : 9
+ Total Blocks           : 5
+ Total Primitive Blocks : 5
+ Total Processes        : 8
+ Total Traceable Variables  : 15
+ Total Scalar Nets and Variables : 514
+Total Line Count : 8
+
+ Total Simulation Time: 2.59375 sec
+
+ Current Memory Usage: 361.624 Meg
+
+Thu Dec 02 22:38:17 2021
+

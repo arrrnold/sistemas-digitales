@@ -1,0 +1,13 @@
+Running: C:\Xilinx\14.7\ISE_DS\ISE\bin\nt64\unwrapped\fuse.exe -intstyle ise -incremental -o C:/Xilinx/Practicas/P3/MUX4bitsPROCESS_isim_beh.exe -prj C:/Xilinx/Practicas/P3/MUX4bitsPROCESS_beh.prj work.MUX4bitsPROCESS 
+ISim P.20131013 (signature 0x7708f090)
+Number of CPUs detected in this system: 2
+Turning on mult-threading, number of parallel sub-compilation jobs: 4 
+Determining compilation order of HDL files
+Parsing VHDL file "C:/Xilinx/Practicas/P3/MUX4bitsPROCESS.vhd" into library work
+ERROR:HDLCompiler:806 - "C:/Xilinx/Practicas/P3/MUX4bitsPROCESS.vhd" Line 47: Syntax error near "<".
+ERROR:HDLCompiler:1731 - "C:/Xilinx/Practicas/P3/MUX4bitsPROCESS.vhd" Line 52: found '0' definitions of operator "=", cannot determine exact overloaded matching definition for "="
+ERROR:HDLCompiler:1731 - "C:/Xilinx/Practicas/P3/MUX4bitsPROCESS.vhd" Line 54: found '0' definitions of operator "=", cannot determine exact overloaded matching definition for "="
+ERROR:HDLCompiler:1731 - "C:/Xilinx/Practicas/P3/MUX4bitsPROCESS.vhd" Line 50: found '0' definitions of operator "=", cannot determine exact overloaded matching definition for "="
+WARNING:HDLCompiler:1369 - "C:/Xilinx/Practicas/P3/MUX4bitsPROCESS.vhd" Line 47: Possible infinite loop; process does not have a wait statement
+ERROR:HDLCompiler:854 - "C:/Xilinx/Practicas/P3/MUX4bitsPROCESS.vhd" Line 44: Unit <behavioral> ignored due to previous errors.
+VHDL file C:/Xilinx/Practicas/P3/MUX4bitsPROCESS.vhd ignored due to errors

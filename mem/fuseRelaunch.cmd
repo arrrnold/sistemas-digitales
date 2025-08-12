@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -o "C:/Users/ar/Desktop/RAM documento/mem/sim_isim_beh.exe" -prj "C:/Users/ar/Desktop/RAM documento/mem/sim_beh.prj" "work.sim" 
